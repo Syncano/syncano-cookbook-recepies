@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "dependencies": {
+    "@syncano-components/login-form": "^0.2.2",
+    "@syncano/cli": "^0.12.1",
+    "@syncano/client": "^0.12.1",
+    "@syncano/react-context": "canary",
+    "@syncano/socket-user-auth": "^0.1.6",
+    "antd": "^3.4.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

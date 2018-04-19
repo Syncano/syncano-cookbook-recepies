@@ -1,4 +1,4 @@
-# Syncano Cookbook Recepies
+# Syncano Cookbook Recipes
 
 ## License
 
